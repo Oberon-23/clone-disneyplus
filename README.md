@@ -60,7 +60,7 @@ Durante o desenvolvimento deste projeto, foi possível:
 
 ## Demonstração
 
-Acesse o projeto publicado: [Disney+ Clone - Deploy](https://seu-deploy-link.com)
+Acesse o projeto publicado: [Disney+ Clone - Deploy](https://clone-disneyplus-red-alpha.vercel.app/)
 
 ## Autor
 
